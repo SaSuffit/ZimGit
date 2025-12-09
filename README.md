@@ -1,4 +1,4 @@
-# ZimGit
+# Welcome to ZimGit
 Unrefined and refined code as I go through school
 
 Project Purpose:
