@@ -1,0 +1,31 @@
+conky.config = {
+    own_window = true,
+    own_window_type = 'desktop',
+    own_window_transparent = false,
+    own_window_colour = '#0e1116',
+    double_buffer = true,
+
+    alignment = 'top_left',
+    gap_x = 0,
+    gap_y = 0,
+
+    minimum_width = 1920,
+    minimum_height = 1080,
+
+    update_interval = 1,
+    use_xft = true,
+    font = 'JetBrains Mono:size=12',
+    default_color = '#9aa4ad',
+
+    draw_borders = false,
+    draw_outline = false,
+    draw_shades = false,
+
+    lua_load = '~/.config/conky/living.lua',
+    lua_draw_hook_pre = 'living_desktop'
+}
+
+conky.text = [[
+${alignc}${font JetBrains Mono:size=36}${time %H:%M}${font}
+${alignc}${font JetBrains Mono:size=14}${time %A · %d %B %Y}${font}
+]]
