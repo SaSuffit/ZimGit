@@ -1,0 +1,17 @@
+C:\Users\cdoug\Documents\business\TxtToSpeech\bin\Debug\net10.0-windows10.0.19041.0\TxtToSpeech.exe
+C:\Users\cdoug\Documents\business\TxtToSpeech\bin\Debug\net10.0-windows10.0.19041.0\TxtToSpeech.deps.json
+C:\Users\cdoug\Documents\business\TxtToSpeech\bin\Debug\net10.0-windows10.0.19041.0\TxtToSpeech.runtimeconfig.json
+C:\Users\cdoug\Documents\business\TxtToSpeech\bin\Debug\net10.0-windows10.0.19041.0\TxtToSpeech.dll
+C:\Users\cdoug\Documents\business\TxtToSpeech\bin\Debug\net10.0-windows10.0.19041.0\TxtToSpeech.pdb
+C:\Users\cdoug\Documents\business\TxtToSpeech\bin\Debug\net10.0-windows10.0.19041.0\Microsoft.Windows.SDK.NET.dll
+C:\Users\cdoug\Documents\business\TxtToSpeech\bin\Debug\net10.0-windows10.0.19041.0\WinRT.Runtime.dll
+C:\Users\cdoug\Documents\business\TxtToSpeech\obj\Debug\net10.0-windows10.0.19041.0\TxtToSpeech.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cdoug\Documents\business\TxtToSpeech\obj\Debug\net10.0-windows10.0.19041.0\TxtToSpeech.AssemblyInfoInputs.cache
+C:\Users\cdoug\Documents\business\TxtToSpeech\obj\Debug\net10.0-windows10.0.19041.0\TxtToSpeech.AssemblyInfo.cs
+C:\Users\cdoug\Documents\business\TxtToSpeech\obj\Debug\net10.0-windows10.0.19041.0\TxtToSpeech.csproj.CoreCompileInputs.cache
+C:\Users\cdoug\Documents\business\TxtToSpeech\obj\Debug\net10.0-windows10.0.19041.0\TxtToSpe.08F28A7D.Up2Date
+C:\Users\cdoug\Documents\business\TxtToSpeech\obj\Debug\net10.0-windows10.0.19041.0\TxtToSpeech.dll
+C:\Users\cdoug\Documents\business\TxtToSpeech\obj\Debug\net10.0-windows10.0.19041.0\refint\TxtToSpeech.dll
+C:\Users\cdoug\Documents\business\TxtToSpeech\obj\Debug\net10.0-windows10.0.19041.0\TxtToSpeech.pdb
+C:\Users\cdoug\Documents\business\TxtToSpeech\obj\Debug\net10.0-windows10.0.19041.0\TxtToSpeech.genruntimeconfig.cache
+C:\Users\cdoug\Documents\business\TxtToSpeech\obj\Debug\net10.0-windows10.0.19041.0\ref\TxtToSpeech.dll

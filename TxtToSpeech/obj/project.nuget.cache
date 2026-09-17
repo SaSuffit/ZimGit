@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2NAr7dULsCs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cdoug\\Documents\\business\\TxtToSpeech\\TxtToSpeech.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cdoug\\.nuget\\packages\\microsoft.windows.sdk.buildtools\\10.0.28000.2705\\microsoft.windows.sdk.buildtools.10.0.28000.2705.nupkg.sha512",
+    "C:\\Users\\cdoug\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.57\\microsoft.windows.sdk.net.ref.10.0.19041.57.nupkg.sha512"
+  ],
+  "logs": []
+}
